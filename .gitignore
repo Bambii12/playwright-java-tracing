@@ -1,0 +1,94 @@
+# Directories #
+doc/
+/doc/
+.gradle/
+target/
+**/out/
+allure-history/**
+screenshots/
+​
+# Application specific generated files
+​
+browserstack.err
+allure-results/
+classes/
+logs
+​
+# OS Files #
+.DS_Store
+​
+# JetBrain's Idea specific stuff #
+​
+.idea*
+*.iml
+​
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+src/main/resources/application.properties
+​
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+​
+# Gradle:
+build/
+.idea/gradle.xml
+.idea/libraries
+​
+​
+## File-based project format:
+*.iws
+​
+## Allure-specific files
+.allure/
+​
+## Plugin-specific files:
+​
+# IntelliJ
+/out/
+out/
+​
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+​
+# JIRA plugin
+atlassian-ide-plugin.xml
+​
+*.class
+browscap.csv
+​
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+​
+######################
+# Windows
+######################
+​
+# Windows image file caches
+Thumbs.db
+​
+# Folder config file
+Desktop.ini
+​
+######################
+# OSX
+######################
+​
+.DS_Store
+.svn
+​
+# Thumbnails
+._*
+# Traces
+trace_*
